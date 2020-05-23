@@ -1,0 +1,41 @@
+.content{
+
+    width: 60%;
+    float: left;
+    padding: 0 0 0 30px;
+    background: red;
+}
+
+.sidebar{
+    width: 40%;
+    float: right;
+    padding: 10px;
+    background: green;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    border-bottom: 1px solid #bbbbbb;
+    padding-bottom: 10px;
+}
+
+body{
+    color: white;
+    background: red;
+}
+
+#date{
+    color: yellowgreen;
+    font-size: 20px;
+    font-style: italic;
+}
+
+a{
+    color: yellow;
+}
+
+input[type='submit']{
+    background: blue;
+    color: white;
+}
